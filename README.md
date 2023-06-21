@@ -12,3 +12,5 @@ Como hacer
 Un rebase
 Para combinar los commits
 En un solo commit
+
+Aqui probaremos el hacer un merge con un rebase
